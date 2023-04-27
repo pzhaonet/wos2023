@@ -1,1 +1,0 @@
-This repo serves as a supplement of the manuscript *Extending the landscape complexity - ecosystem services relationship: insights and perspectives from smallholder agroecosystems in China* (Zou et al., 2023).
